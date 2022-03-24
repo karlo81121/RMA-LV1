@@ -1,0 +1,1 @@
+C:\Users\Karlo\IdeaProjects\Jamb\build\classes\kotlin\main\Dice.class;C:\Users\Karlo\IdeaProjects\Jamb\build\classes\kotlin\main\Hand.class;C:\Users\Karlo\IdeaProjects\Jamb\build\classes\kotlin\main\MainKt.class
